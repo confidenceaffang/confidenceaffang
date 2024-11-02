@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👯 I’m looking to collaborate on **Cloud native projects**
+- 👯 I’m looking to collaborate on **Client-server web applications**
 
 - 🤝 I’m looking for help with **Android app development**
 
