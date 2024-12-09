@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/confidence mawuli affang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="confidence mawuli affang" height="30" width="40" /></a>
 <a href="https://instagram.com/@confidenceaffang_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@confidenceaffang_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/confidenceaffanf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="confidenceaffanf" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/confidenceaffang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="confidenceaffanf" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@confidenceaffang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@confidenceaffang" height="30" width="40" /></a>
 </p>
 
