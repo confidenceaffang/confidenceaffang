@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Android app development**
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/api/toolbar/link/portfolio-website-three-mocha.vercel.app?via=project-dashboard-alias-list&p=1&page=/](https://vercel.com/api/toolbar/link/portfolio-website-three-mocha.vercel.app?via=project-dashboard-alias-list&p=1&page=/)
+- 👨‍💻 All of my projects are available at [www.affang.dev](https://affang.dev/)
 
 - 💬 Ask me about **React**
 
