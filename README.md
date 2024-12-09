@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Confidence Mawuli Affang</h1>
-<h3 align="center">A passionate Full stack developer from Ghana</h3>
+<h3 align="center">I am an Aspiring Software Engineer at Wayne State College</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=confidenceaffang&label=Profile%20views&color=0e75b6&style=flat" alt="confidenceaffang" /> </p>
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/confidence mawuli affang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="confidence mawuli affang" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/confidence-affang-22603b2b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="confidence mawuli affang" height="30" width="40" /></a>
 <a href="https://instagram.com/@confidenceaffang_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@confidenceaffang_" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/confidenceaffang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="confidenceaffanf" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@confidenceaffang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@confidenceaffang" height="30" width="40" /></a>
