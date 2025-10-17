@@ -1,8 +1,10 @@
 name: Update Pac-Man Contribution Graph
 
 on:
+ 
   schedule:
     - cron: "0 */12 * * *"
+  
   workflow_dispatch:
 
 jobs:
@@ -12,7 +14,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: tha-rue/gh-action-github-profile-pacman@v2.2.0 
+      - uses: ashutosh00710/github-readme-pacman@main 
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OUTPUT_DIR: output
